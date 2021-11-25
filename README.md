@@ -16,7 +16,7 @@ El programa iniciará y contará con un menú de opciones:
 
 • En el menú aparecerá los valores actuales cargados en los operandos A y B (donde dice “x” e “y” en el ejemplo, se mostrará  el número cargado).
 
-• Se contemplán los casos de error (división por cero, etc).
+• Se contemplará los casos de error (división por cero, etc).
 
 ## Integrantes:
 1. Angelica Zurita
